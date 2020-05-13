@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998773856030",
+    "firebase_url": "https://miostorenew.firebaseio.com",
+    "project_id": "miostorenew",
+    "storage_bucket": "miostorenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998773856030:android:3ce5adb5adb1e20aa4db0f",
+        "android_client_info": {
+          "package_name": "com.example.linhvt.miostorenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998773856030-kn99brql1h2c1pgfafhk3lfa204ljs8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.linhvt.miostorenew",
+            "certificate_hash": "e54135976fa1f9d2d01daa2638d252055f1af7bb"
+          }
+        },
+        {
+          "client_id": "998773856030-tcmtv8jvb8c0i578eai4njhpjehujaj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgGUTv6SbYfhCIb9y_bpuRFNBvx55Hvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998773856030-tcmtv8jvb8c0i578eai4njhpjehujaj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
